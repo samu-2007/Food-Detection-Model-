@@ -1,4 +1,4 @@
-streamlit
+st
 ultralytics
 pandas
 openpyxl
