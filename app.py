@@ -1,3 +1,8 @@
+!pip install -q ultralytics
+     
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.1/42.1 kB 2.8 MB/s eta 0:00:00
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.4/1.4 MB 38.3 MB/s eta 0:00:00
+
 from ultralytics import YOLO
 import pandas as pd
 import matplotlib.pyplot as plt
